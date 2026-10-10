@@ -1,0 +1,64 @@
+Biblioteki dołączone do ŚleDzika (pliki w tym katalogu, bez zmian względem wydań autorów)
+==========================================================================================
+leaflet.js, leaflet.css, images/   Leaflet 1.9.4            BSD-2-Clause   github.com/Leaflet/Leaflet (wydanie v1.9.4, leaflet.zip)
+leaflet.markercluster.js, *.css    Leaflet.markercluster 1.4.1  MIT       github.com/Leaflet/Leaflet.markercluster (tag v1.4.1, dist/)
+leaflet-heat.js                    Leaflet.heat 0.2.0       BSD-2-Clause   github.com/Leaflet/Leaflet.heat (tag v0.2.0, dist/)
+maplibre-gl.js, maplibre-gl.css    MapLibre GL JS 2.4.0     BSD-3-Clause   github.com/maplibre/maplibre-gl-js (wydanie v2.4.0, dist.zip)
+html2canvas.min.js                 html2canvas 1.4.1        MIT            github.com/niklasvh/html2canvas (wydanie v1.4.1)
+
+Sumy kontrolne SHA-384 (base64):
+  leaflet.js                 tM1WyRnQZLXgeuR/dXHqqQcD5jN9+bgKmZW55OJtM9Bv7zCG4VFwmgdJudAtzIni
+  leaflet.css                sHL9NAb7lN7rfvG5lfHpm643Xkcjzp4jFvuavGOndn6pjVqS6ny56CAt3nsEVT4H
+  leaflet.markercluster.js   RLIyj5q1b5XJTn0tqUhucRZe40nFTocRP91R/NkRJHwAe4XxnTV77FXy/vGLiec2
+  MarkerCluster.css          pmjIAcz2bAn0xukfxADbZIb3t8oRT9Sv0rvO+BR5Csr6Dhqq+nZs59P0pPKQJkEV
+  MarkerCluster.Default.css  wgw+aLYNQ7dlhK47ZPK7FRACiq7ROZwgFNg0m04avm4CaXS+Z9Y7nMu8yNjBKYC+
+  leaflet-heat.js            mFKkGiGvT5vo1fEyGCD3hshDdKmW3wzXW/x+fWriYJArD0R3gawT6lMvLboM22c0
+  maplibre-gl.js             d7ZDjW8dICoRWC3wnExUiOx1CgEcPFEPJmTdIo93yyxQLAUbUwa6yKg3tlACCOMf
+  maplibre-gl.css            g0Ap4cGP18FAKniFM6i06oyjTpBYleD9hZcGyVnlsc1JFbfedDo1Oqb9qxrxVB3a
+  html2canvas.min.js         ZZ1pncU3bQe8y31yfZdMFdSpttDoPmOZg2wguVK9almUodir1PghgT0eY7Mrty8H
+
+--- Leaflet.markercluster (MIT) ---
+Copyright 2012 David Leaver
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+--- Leaflet.heat (BSD-2-Clause) ---
+Copyright (c) 2014, Vladimir Agafonkin
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are
+permitted provided that the following conditions are met:
+
+   1. Redistributions of source code must retain the above copyright notice, this list of
+      conditions and the following disclaimer.
+
+   2. Redistributions in binary form must reproduce the above copyright notice, this list
+      of conditions and the following disclaimer in the documentation and/or other materials
+      provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
