@@ -1,21 +1,21 @@
 Biblioteki dołączone do ŚleDzika (pliki w tym katalogu, bez zmian względem wydań autorów)
 ==========================================================================================
 leaflet.js, leaflet.css, images/   Leaflet 1.9.4            BSD-2-Clause   github.com/Leaflet/Leaflet (wydanie v1.9.4, leaflet.zip)
-leaflet.markercluster.js, *.css    Leaflet.markercluster 1.4.1  MIT       github.com/Leaflet/Leaflet.markercluster (tag v1.4.1, dist/)
+leaflet.markercluster.js, *.css    Leaflet.markercluster 1.5.3  MIT       npm leaflet.markercluster@1.5.3, dist/ (CSS bez zmian od 1.4.1)
 leaflet-heat.js                    Leaflet.heat 0.2.0       BSD-2-Clause   github.com/Leaflet/Leaflet.heat (tag v0.2.0, dist/)
 maplibre-gl.js, maplibre-gl.css    MapLibre GL JS 2.4.0     BSD-3-Clause   github.com/maplibre/maplibre-gl-js (wydanie v2.4.0, dist.zip)
-html2canvas.min.js                 html2canvas 1.4.1        MIT            github.com/niklasvh/html2canvas (wydanie v1.4.1)
+html2canvas-pro.min.js             html2canvas-pro 2.4.5    MIT            npm html2canvas-pro@2.4.5, dist/ (github.com/yorickshan/html2canvas-pro)
 
 Sumy kontrolne SHA-384 (base64):
   leaflet.js                 tM1WyRnQZLXgeuR/dXHqqQcD5jN9+bgKmZW55OJtM9Bv7zCG4VFwmgdJudAtzIni
   leaflet.css                sHL9NAb7lN7rfvG5lfHpm643Xkcjzp4jFvuavGOndn6pjVqS6ny56CAt3nsEVT4H
-  leaflet.markercluster.js   RLIyj5q1b5XJTn0tqUhucRZe40nFTocRP91R/NkRJHwAe4XxnTV77FXy/vGLiec2
+  leaflet.markercluster.js   eXVCORTRlv4FUUgS/xmOyr66XBVraen8ATNLMESp92FKXLAMiKkerixTiBvXriZr
   MarkerCluster.css          pmjIAcz2bAn0xukfxADbZIb3t8oRT9Sv0rvO+BR5Csr6Dhqq+nZs59P0pPKQJkEV
   MarkerCluster.Default.css  wgw+aLYNQ7dlhK47ZPK7FRACiq7ROZwgFNg0m04avm4CaXS+Z9Y7nMu8yNjBKYC+
   leaflet-heat.js            mFKkGiGvT5vo1fEyGCD3hshDdKmW3wzXW/x+fWriYJArD0R3gawT6lMvLboM22c0
   maplibre-gl.js             d7ZDjW8dICoRWC3wnExUiOx1CgEcPFEPJmTdIo93yyxQLAUbUwa6yKg3tlACCOMf
   maplibre-gl.css            g0Ap4cGP18FAKniFM6i06oyjTpBYleD9hZcGyVnlsc1JFbfedDo1Oqb9qxrxVB3a
-  html2canvas.min.js         ZZ1pncU3bQe8y31yfZdMFdSpttDoPmOZg2wguVK9almUodir1PghgT0eY7Mrty8H
+  html2canvas-pro.min.js     qpISIG3GeYccibLkLsLFyYlTHbXmLeV1MZZsOPGYw1S4INBU4nOH3Sdb+18D5K0o
 
 --- Leaflet.markercluster (MIT) ---
 Copyright 2012 David Leaver
@@ -62,3 +62,24 @@ SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRU
 HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
 TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+--- html2canvas-pro (MIT) ---
+Copyright (c) 2024-present yorickshan and html2canvas-pro contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
